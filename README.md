@@ -1,4 +1,4 @@
-# Netflix-clone
+# whats in the project ?
 This is just a simple project , where I used html and css to build and style the landing page of Netflix.
 I've structed it as 
         1.header :
